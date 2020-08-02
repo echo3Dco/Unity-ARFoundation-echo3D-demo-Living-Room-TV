@@ -9,7 +9,7 @@ Don't have an API key? Make sure to register for FREE at [echoAR](https://consol
 * Follow the instructions on our [doumention page](https://docs.echoar.xyz/unity/adding-ar-capabilities) to [set your API key](https://docs.echoar.xyz/unity/adding-ar-capabilities#3-set-you-api-key).
 * [Add the 3D assets](https://docs.echoar.xyz/quickstart/add-a-3d-model) from the [assets](https://github.com/echoARxyz/Unity-ARFoundation-echoAR-demo-Living-Room-TV/tree/master/assets) folder to the console.
 * [Add the metadata](https://docs.echoar.xyz/web-console/manage-pages/data-page/how-to-add-data#adding-metadata) listed in the the [metadata](https://github.com/echoARxyz/Unity-ARFoundation-echoAR-demo-Living-Room-TV/blob/master/metadata-video.csv) file to the video hologram.
-* Overwrite the exisitng _echoAR/RemoteTransformations.cs_ script with the new [_RemoteTransformations.cs_](https://github.com/echoARxyz/Unity-ARFoundation-echoAR-demo-Living-Room-TV/blob/master/RemoteTransformations.cs) file.
+* Overwrite the existing _echoAR/RemoteTransformations.cs_ script with the new [_RemoteTransformations.cs_](https://github.com/echoARxyz/Unity-ARFoundation-echoAR-demo-Living-Room-TV/blob/master/RemoteTransformations.cs) file.
 
 ## Run
 * [Build and run the AR application](https://docs.echoar.xyz/unity/adding-ar-capabilities#4-build-and-run-the-ar-application).

@@ -14,10 +14,6 @@ Don't have an API key? Make sure to register for FREE at [echoAR](https://consol
 ## Run
 * [Build and run the AR application](https://docs.echoar.xyz/unity/adding-ar-capabilities#4-build-and-run-the-ar-application).
 
-## Real-time updates
-Update the value of the _text_ key associated with the speech bubble model and notice that the text in the AR scene changes automatically.
-
-
 ## Learn more
 Refer to our [documentation](https://docs.echoar.xyz/unity/) to learn more about how to use Unity, AR Foundation, and echoAR.
 
